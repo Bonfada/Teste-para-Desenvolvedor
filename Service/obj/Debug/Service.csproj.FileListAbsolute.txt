@@ -1,0 +1,9 @@
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\Service\bin\Debug\Service.dll
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\Service\bin\Debug\Service.pdb
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\Service\bin\Debug\Model.dll
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\Service\bin\Debug\Model.pdb
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\Service\obj\Debug\Service.csprojAssemblyReference.cache
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\Service\obj\Debug\Service.csproj.CoreCompileInputs.cache
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\Service\obj\Debug\Service.csproj.CopyComplete
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\Service\obj\Debug\Service.dll
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\Service\obj\Debug\Service.pdb

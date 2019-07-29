@@ -1,0 +1,12 @@
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\EDI\bin\Debug\EDI.exe.config
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\EDI\bin\Debug\EDI.exe
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\EDI\bin\Debug\EDI.pdb
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\EDI\bin\Debug\Service.dll
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\EDI\bin\Debug\Model.dll
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\EDI\bin\Debug\Service.pdb
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\EDI\bin\Debug\Model.pdb
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\EDI\obj\Debug\EDI.csprojAssemblyReference.cache
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\EDI\obj\Debug\EDI.csproj.CoreCompileInputs.cache
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\EDI\obj\Debug\EDI.csproj.CopyComplete
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\EDI\obj\Debug\EDI.exe
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\EDI\obj\Debug\EDI.pdb

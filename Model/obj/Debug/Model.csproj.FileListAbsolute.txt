@@ -1,0 +1,6 @@
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\Model\bin\Debug\Model.dll
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\Model\bin\Debug\Model.pdb
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\Model\obj\Debug\Model.dll
+C:\Users\BONFADA\Documents\Visual Studio 2017\ProvaNT\Model\obj\Debug\Model.pdb
